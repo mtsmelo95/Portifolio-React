@@ -25,7 +25,7 @@ const AboutMe = () => {
           </p>
         </div>
         <div className="aboutmeImage">
-          <img src="././public/eu.jpg" alt="" />
+          <img src="eu.jpg" alt="" />
         </div>
       </div>
     </div>
